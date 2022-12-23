@@ -5,6 +5,18 @@
 
 Here are some ideas to get you started:
 
+Skill
+Python MySQL
+
+ML/DL
+NumPy Pandas Plotly scikit-learn
+
+Use IDE
+Jupyter Notebook Visual Studio Code
+
+Hosting
+AWS
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
