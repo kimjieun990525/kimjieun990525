@@ -27,5 +27,3 @@
 
 <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=Amazon API Gateway&logoColor=white"/>   <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat-square&logo=Amazon CloudWatch&logoColor=white"/>
 
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim Ji Eun)](https://github.com/anuraghazra/github-readme-stats)
